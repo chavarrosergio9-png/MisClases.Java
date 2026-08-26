@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class promedio{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        // sc es un objeto de la clase Scanner que nos permite leer datos desde el teclado
+        // sc.nextDouble() es un método que nos permite leer un número decimal desde el teclado
 
         System.out.print("Nota 1: ");
         double nota1 = sc.nextDouble();
