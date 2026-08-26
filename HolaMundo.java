@@ -4,3 +4,7 @@ public class HolaMundo{
     }
 }
 
+// git status
+// git add .
+// git commit -m "Agregar avance del dia"
+//git push origin main
